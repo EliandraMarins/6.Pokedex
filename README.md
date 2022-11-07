@@ -5,4 +5,4 @@
 <li>CSS</li>
 <li>JavaScript</li>
 <h2>Implementações futuras</h2>
-<li>Página com os status do pokémon</li>
+<li>Página com os status dos pokémons</li>
